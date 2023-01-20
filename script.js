@@ -1,2 +1,2 @@
-let academy = "Open Web";
-console.log(academy);
+let fruit = "apple";
+console.log(fruit);
